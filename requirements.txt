@@ -13,7 +13,7 @@ psutil==5.8.0
 pyfiglet==0.8.post1
 pyshorteners==1.0.1
 python-whois==0.7.3
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 typing-extensions==3.10.0.2
 Unidecode==1.2.0
